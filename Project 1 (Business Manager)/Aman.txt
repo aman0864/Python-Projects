@@ -1,0 +1,32 @@
+
+Time---->: [2021-03-28 23:29:28.979579]
+Reason----> car(toyota)
+Amount----> 5464734
+
+Time---->: [2021-03-28 23:30:06.506689]
+Reason----> dogs
+Amount----> 12000
+
+Time---->: [2021-03-28 23:31:13.219258]
+Reason----> computer built
+Amount----> 40000+
+
+Time----> [2021-03-28 23:32:10.018925]
+Reason----> cycle
+Amount----> 10000
+
+Time----> [2021-03-28 23:40:40.170608]
+Reason----> house 
+Amount----> 600000000000
+
+Time----> [2021-03-28 23:41:54.572208]
+Reason----> travel
+Amount----> 230015
+
+Time----> [2021-03-29 04:05:35.191320]
+Reason----> house hold expense
+Amount----> 10655
+
+Time----> [2021-03-30 13:32:36.679055]
+Reason----> helth care
+Amount----> 10000
