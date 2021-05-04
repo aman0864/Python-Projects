@@ -1,7 +1,7 @@
 This code will make a telegram auto messenger bot
 Which will help us send telegram message again and again continusely
 
-To see it's video Part 1 please visit this down link 
+To see it's video please visit this down link 
 https://photos.app.goo.gl/im5yhB6r8n341Hmy5
 
 
