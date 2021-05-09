@@ -8,5 +8,5 @@ To see it's video Part 2 please visit this down link
 https://photos.app.goo.gl/TNqop1w1VwyqCMALA
 
 
-To see full albun please visit
+To see full album please visit
 https://photos.app.goo.gl/qbJ3uG95YH8ZKKjS8
